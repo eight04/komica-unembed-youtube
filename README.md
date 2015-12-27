@@ -4,7 +4,7 @@ Komica - Unembed Youtube
 
 安裝
 ----
-[Greasy Fork]()
+[Greasy Fork](https://greasyfork.org/zh-TW/scripts/15622-komica-unembed-youtube)
 
 Changelog
 ---------
