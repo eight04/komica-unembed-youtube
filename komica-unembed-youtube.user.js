@@ -4,6 +4,7 @@
 // @namespace   eight04.blogspot.com
 // @description Open youtube in new tab instead of playing directly when clicking on the video.
 // @include     http://*mykomica.org/*
+// @include		http://*.mymoe.moe/*
 // @grant       none
 // @compatible  firefox
 // @compatible  chrome
