@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Komica - Unembed Youtube
-// @version     0.1.0
+// @version     0.1.1
 // @namespace   eight04.blogspot.com
 // @description Open youtube in new tab instead of playing directly when clicking on the video.
 // @include     http://*mykomica.org/*
