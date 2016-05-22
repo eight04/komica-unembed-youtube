@@ -8,5 +8,7 @@ Komica - Unembed Youtube
 
 Changelog
 ---------
-* Version 0.1.0 (Dec 28, 2015):
+* 0.1.1 (May 22, 2016)
+	- Support mymoe.moe.
+* 0.1.0 (Dec 28, 2015)
 	- First release.
